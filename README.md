@@ -1,6 +1,6 @@
 # 🚀 Software Quality Assurance (QA) Master Plan
 **Project Name:** QA Assistant System & Smart AI-Powered Bug Triage[cite: 1, 2]  
-**Team Name:** Bug Busters1  
+**Team Name:** Bug Busters1[cite: 1]  
 **Academic Year:** 2026–2027[cite: 1]  
 **Supervisor:** Ahmed Abd Elhafez[cite: 1]  
 **Assigned QA Engineer:** Abd Elrahman Esmat[cite: 1]  
@@ -8,11 +8,11 @@
 ---
 
 ## 📌 Table of Contents
-1. [Project Overview](#-project-overview)
-2. [Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)
-3. [Software Test Plan (STP)](#-software-test-plan-stp)
-4. [Testing Strategy & Execution](#-testing-strategy--execution)
-5. [Risk Assessment & Mitigation](#-risk-assessment--mitigation)
+* [1. Project Overview](#-1-project-overview)
+* [2. Key Performance Indicators (KPIs)](#-2-key-performance-indicators-kpis)
+* [3. Software Test Plan (STP)](#-3-software-test-plan-stp)
+* [4. Testing Strategy & Execution](#-4-testing-strategy--execution)
+* [5. Risk Assessment & Mitigation](#-5-risk-assessment--mitigation)
 
 ---
 
